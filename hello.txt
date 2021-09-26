@@ -13,7 +13,7 @@ hello git!
 hello git!
 hello git!
 hello git!
-hello git!
+hello git!  
 sssss
-迪迦奥特满
-特傲慢
+迪迦奥特满 master
+特傲满
