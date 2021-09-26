@@ -16,4 +16,4 @@ hello git!
 hello git!
 sssss
 迪迦奥特满
-特傲慢
+特傲慢 hot-fix test
