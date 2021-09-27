@@ -9,5 +9,7 @@ public class Start04 {
         System.out.println("第四个版本的测试");
         System.out.println("main-test");
 
+        System.out.println("hot-fix");
+
     }
 }
