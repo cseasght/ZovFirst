@@ -10,6 +10,7 @@ public class Start04 {
         System.out.println("main-test");
 
         System.out.println("hot-fix");
+        System.out.println("阿伟与杰哥");
 
     }
 }
