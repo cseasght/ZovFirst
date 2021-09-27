@@ -5,5 +5,7 @@ public class Start04 {
         System.out.println("hello git");
         System.out.println("hello 阿伟");
         System.out.println("hello 杰哥");
+
+        System.out.println("第四个版本的测试");
     }
 }
